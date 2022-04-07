@@ -10,7 +10,7 @@
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Gabriel-Luffy" height="130" width="200" src="https://tenor.com/view/luffy-one-piece-luffy-smile-smile-gif-23016281.gif">
+  <img align="right" alt="Gabriel-Luffy" height="110" width="140" src="https://tenor.com/view/luffy-one-piece-luffy-smile-smile-gif-23016281.gif">
  </div>
           
   ##
