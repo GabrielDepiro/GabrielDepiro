@@ -1,6 +1,5 @@
 ### OLá! Eu sou o Gabriel D'Epiro!! 👋
 
-- 🔭 No momento estou trabalhando em um Projeto de Banco de dados
 - 🌱 Estudando Java e SQL
 
 <div align="center">
