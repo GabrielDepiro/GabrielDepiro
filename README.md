@@ -1,4 +1,4 @@
-### OLá! Eu sou o Gabriel D'Epiro!! 👋
+### OLÁ! Eu sou o Gabriel D'Epiro!! 👋
 
 - 🌱 Estudando Java e SQL
 
