@@ -15,5 +15,4 @@
  </div>
           
   ##
-![Snake animation](https://github.com/GabrielDepiro/GabrielDepiro/blob/output/github-contribution-grid-snake.svg)
 
