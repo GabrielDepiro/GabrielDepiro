@@ -1,6 +1,6 @@
 ### OLÁ! Eu sou o Gabriel D'Epiro!! 👋
 
-- 🌱 Estudando Java e SQL
+- 🌱 Estudando Python e SQL
 
 <div align="center">
   <a href="https://github.com/GabrielDepiro">
